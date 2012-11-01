@@ -1,0 +1,9 @@
+h1{
+	width: 400px;
+	margin: auto;
+	padding: 5px 10px;
+	border: 1px solid #AAA;
+	border-radius: 4px;
+	box-shadow: 4px 4px 1px #DDD, -4px 4px 1px #DDD;
+	background: yellow;
+}
